@@ -1,5 +1,5 @@
 # Hi, I'm [Artha](https://git.samerion.com/Artha)!
 
-I'm developing a big MMO game a sane person probably wouldn't work on alone, [Samerion](https://samerion.com). The game itself is closed, but is built upon a few small libraries you're entirely free to use. See them all on [git.samerion.com](https://git.samerion.com/Samerion) (collaborations are welcome)!
+I'm developing an MMO game a sane person probably wouldn't work on alone, [Samerion](https://samerion.com). While the game is closed, you might be interested in related projects like [Fluid](https://git.samerion.com/Samerion/Fluid), my user interface library
 
-**Note:** I am visiting GitHub less and less nowadays, moving activity to my Gitea instance.
+**Note:** My profile on GitHub is mostly repositories mirrored from my [Gitea instance](https://git.samerion.com).
